@@ -1,0 +1,40 @@
+/* add your CSS here */
+
+.italic {
+  font-style: italic;
+}
+
+.bold {
+font-weight: bold;
+}
+
+h3 {
+  padding-left: 40px;
+}
+
+.animal-info {
+  margin: 20px 20px;
+  border: 2px;
+  border-color: #D3D3D3;
+  border-style: solid;
+  box-shadow: 2px 2px 2px 2px #D3D3D3;
+  width:340px;
+}
+
+img {
+  padding: 0px 20px 0px 20px;
+}
+
+.animal-description {
+  border: 2px;
+  margin: 20px 20px;
+  border-style: solid;
+  border-color: #C1C1C1;
+  padding: 5px 10px 10px 10px;
+}
+
+ul
+{
+    list-style-type: none;
+    padding-left: 0;
+}
